@@ -12,7 +12,6 @@ This project involves developing a predictive model for diabetes using various d
 - [Future Work](#future-work)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Introduction
@@ -55,3 +54,5 @@ To use the predictive model:
 2. Run the preprocessing script: `python preprocess.py`
 3. Train the model: `python train.py`
 4. Make predictions: `python predict.py`
+#License
+This project is licensed under the MIT License
