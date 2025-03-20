@@ -55,4 +55,4 @@ To use the predictive model:
 3. Train the model: `python train.py`
 4. Make predictions: `python predict.py`
 #License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
